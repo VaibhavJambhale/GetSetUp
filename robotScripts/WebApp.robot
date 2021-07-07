@@ -2,9 +2,9 @@
 Library    SeleniumLibrary   
 
 *** Variables ***
-${URL}          https://www.getsetup.io/?debug=1
-${email}        vaibhav@getsetup.io
-${password}     RLZ9tW~VHGZX   
+${URL}          
+${email}        
+${password}       
 ${browser}      chrome
 
 *** Test Cases ***
